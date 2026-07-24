@@ -60,18 +60,16 @@
 
 ---
 
-## 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Selak007&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Selak007&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Selak007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Selak007&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Selak007&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Selak007&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ## 🤝 Connect With Me
 
