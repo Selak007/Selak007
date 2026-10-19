@@ -63,8 +63,8 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Selak007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Selak007&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://YOUR-VERCEL-DOMAIN/api?username=Selak007&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://YOUR-VERCEL-DOMAIN/api/top-langs/?username=Selak007&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
